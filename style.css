@@ -29,6 +29,7 @@ ul{
 li {
     color: #666971;
     list-style-type:none;
+    cursor: pointer;
 }
 input{
     height: 3em;
